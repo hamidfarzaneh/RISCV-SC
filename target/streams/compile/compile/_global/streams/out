@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/h4mid/programming/project/chipyard/chipyard/generators/hfj/src/main/scala/hfj.scala:50:25: value xs1 is not a member of freechips.rocketchip.tile.RoCCCommand[0m
+[0m[[0m[31merror[0m] [0m[0m  val addend = cmd.bits.xs1[0m
+[0m[[0m[31merror[0m] [0m[0m                        ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
